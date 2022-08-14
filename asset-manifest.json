@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nileshlad09/TextAnalysis.git/static/css/main.8a07a7c4.css",
+    "main.js": "/nileshlad09/TextAnalysis.git/static/js/main.13ef712a.js",
+    "static/js/787.07133056.chunk.js": "/nileshlad09/TextAnalysis.git/static/js/787.07133056.chunk.js",
+    "static/media/background.jpg": "/nileshlad09/TextAnalysis.git/static/media/background.8cb43d36f1d79c15b352.jpg",
+    "index.html": "/nileshlad09/TextAnalysis.git/index.html",
+    "main.8a07a7c4.css.map": "/nileshlad09/TextAnalysis.git/static/css/main.8a07a7c4.css.map",
+    "main.13ef712a.js.map": "/nileshlad09/TextAnalysis.git/static/js/main.13ef712a.js.map",
+    "787.07133056.chunk.js.map": "/nileshlad09/TextAnalysis.git/static/js/787.07133056.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a07a7c4.css",
+    "static/js/main.13ef712a.js"
+  ]
+}
